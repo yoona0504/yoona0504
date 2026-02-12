@@ -34,9 +34,7 @@
 <div align="center">
   <a href="mailto:stellayoona@naver.com">
     <img alt="Naver" src="https://img.shields.io/badge/stellayoona%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:stellayoona@gmail.com">
+  </a><a href="mailto:stellayoona@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/stellayoona%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
