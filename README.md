@@ -1,34 +1,43 @@
-<h3 align="center"> 💻 Tech Stack 💻</h3>
+<h2 align="center">Hi, I'm Yoona 👋</h2>
+<p align="center">
+  Embedded / Firmware Developer
+</p>
+
+<br/>
+
+<h3 align="center">💻 Tech Stack 💻</h3>
 <div align="center">
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="C" src="https://img.shields.io/badge/C-03599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="Firmware" src="https://img.shields.io/badge/Firmware-444444?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded-222222?style=for-the-badge" />
 </div>
 
-<div align="center">
-  <img alt="Linux" src="https://img.shields.io/badge/linux-F7BE81?style=for-the-badge&logo=linux&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+<br/>
 
-<h3 align="center"> 📚 Studying 📚</h3>
+<h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img alt="ROS2" src="https://img.shields.io/badge/ros2-304060?style=for-the-badge&logo=ros&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-F7BE81?style=for-the-badge&logo=linux&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-D26383?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
-<h3 align="center"> 🛠 Tools 🛠</h3>
+<br/>
+
+<h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"/> 
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-<h3 align="center"> 🔔 Contact 🔔</h3>
+<br/>
+
+<h3 align="center">🔔 Contact 🔔</h3>
 <div align="center">
-  <a href="mailto:shj2012@naver.com">
-    <img alt="Mail" src="https://img.shields.io/badge/jykang56@naver.com-darkgreen?style=for-the-badge&logo=naver&logoColor=white"/>
+  <a href="mailto:stellayoona@naver.com">
+    <img alt="Naver" src="https://img.shields.io/badge/stellayoona%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
-  <a href="mailto:as379907as@gmail.com">
-    <img alt="Mail" src="https://img.shields.io/badge/jykang560@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  &nbsp;
+  <a href="mailto:stellayoona@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/stellayoona%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
